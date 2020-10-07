@@ -1,0 +1,21 @@
+.skadooosh{
+ position: fixed;
+ top: 0;
+ left: 0;
+ height:100%;
+ width: 100%;
+ background-color: black;
+}
+.skadooosh_animate{
+  -webkit-animation: animatezoom 120.6s;
+  animation: animatezoom 120.6s;
+}
+
+.skadooosh_1{
+font-size: 250px;
+color: white;
+position: fixed;
+}
+.skadooosh_audio{
+  display: none;
+}
