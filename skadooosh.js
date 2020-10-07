@@ -35,7 +35,7 @@ var x = setInterval(function() {
 }, 1000);
 
 // SKADOOOSH DELAY
-setTimeout(skadooosh, 35400);
+setTimeout(skadooosh, 30400);
   function skadooosh() {
     document.getElementById("skadooosh_test").style.display= "initial";
     }
