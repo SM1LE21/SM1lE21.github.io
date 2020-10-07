@@ -1,3 +1,9 @@
+// SKADOOOSH DELAY
+setTimeout(skadooosh, 30400);
+  function skadooosh() {
+    document.getElementById("skadooosh_test").style.display= "initial";
+    }
+
 // Set the date we're counting down to
 var countDownDate = new Date("Dec 28, 2020 23:59:59")
  .getTime();
@@ -34,8 +40,3 @@ var x = setInterval(function() {
  }
 }, 1000);
 
-// SKADOOOSH DELAY
-setTimeout(skadooosh, 30400);
-  function skadooosh() {
-    document.getElementById("skadooosh_test").style.display= "initial";
-    }
