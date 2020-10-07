@@ -1,5 +1,5 @@
 // SKADOOOSH DELAY
-setTimeout(skadooosh, 30400);
+setTimeout(skadooosh, 31200);
   function skadooosh() {
     document.getElementById("skadooosh_test").style.display= "initial";
     }
